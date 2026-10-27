@@ -10,16 +10,19 @@ Installieren aus [`Bogotrax/Koprotokoll`](https://github.com/Bogotrax/Koprotokol
 [![In Pinokio installieren](https://img.shields.io/badge/In_Pinokio_installieren-FF6C37?style=for-the-badge)](http://localhost:42000/pinokio/download?uri=https%3A%2F%2Fgithub.com%2FBogotrax%2Fkoprotokoll-pinokio&path=api)
 
 > **One-Click-Installation:** Der Button oben startet die Installation direkt in Pinokio –
-> vorausgesetzt, Pinokio läuft auf diesem Rechner. Ohne laufendes Pinokio die manuelle
-> Variante im folgenden Abschnitt nutzen.
+> vorausgesetzt, Pinokio läuft auf diesem Rechner. Pinokio noch nicht installiert?
+> [Hier downloaden](https://desktop.pinokio.co/download.html). Ohne laufendes Pinokio die
+> manuelle Variante im folgenden Abschnitt nutzen.
 
 ## Installation in Pinokio
 
-1. Pinokio öffnen → **Install from URL**.
-2. Diese Repo-URL einfügen: `https://github.com/Bogotrax/koprotokoll-pinokio`
-3. **Installieren** klicken. Pinokio lädt automatisch den Koprotokoll-Code, installiert die
+1. Pinokio herunterladen und installieren: [Download-Seite](https://desktop.pinokio.co/download.html)
+   (macOS, Windows, Linux).
+2. Pinokio öffnen → **Install from URL**.
+3. Diese Repo-URL einfügen: `https://github.com/Bogotrax/koprotokoll-pinokio`
+4. **Installieren** klicken. Pinokio lädt automatisch den Koprotokoll-Code, installiert die
    Python-Abhängigkeiten und den Browser für den Meeting-Bot.
-4. **Starten** klicken und über **Oberfläche öffnen** die Weboberfläche im Browser aufrufen
+5. **Starten** klicken und über **Oberfläche öffnen** die Weboberfläche im Browser aufrufen
    (Standard: `http://127.0.0.1:8000`).
 
 ## Menü
