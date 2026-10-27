@@ -1,0 +1,18 @@
+{
+  "posts": [],
+  "links": [
+    {
+      "title": "Koprotokoll",
+      "links": [
+        {
+          "title": "Quellcode (GitHub)",
+          "value": "https://github.com/Bogotrax/Koprotokoll"
+        },
+        {
+          "title": "Einrichtung & Doku",
+          "value": "https://github.com/Bogotrax/Koprotokoll/blob/main/docs/einrichtung.md"
+        }
+      ]
+    }
+  ]
+}
