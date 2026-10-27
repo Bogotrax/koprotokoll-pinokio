@@ -7,6 +7,12 @@ Zusammenfassung), komplett lokal und auf Deutsch. Keine Cloud nötig.
 Diese Repo enthält nur die Pinokio-Rezeptdateien. Die eigentliche Anwendung wird beim
 Installieren aus [`Bogotrax/Koprotokoll`](https://github.com/Bogotrax/Koprotokoll) (Branch `main`) geladen.
 
+[![In Pinokio installieren](https://img.shields.io/badge/In_Pinokio_installieren-FF6C37?style=for-the-badge)](http://localhost:42000/pinokio/download?uri=https%3A%2F%2Fgithub.com%2FBogotrax%2Fkoprotokoll-pinokio&path=api)
+
+> **One-Click-Installation:** Der Button oben startet die Installation direkt in Pinokio –
+> vorausgesetzt, Pinokio läuft auf diesem Rechner. Ohne laufendes Pinokio die manuelle
+> Variante im folgenden Abschnitt nutzen.
+
 ## Installation in Pinokio
 
 1. Pinokio öffnen → **Install from URL**.
